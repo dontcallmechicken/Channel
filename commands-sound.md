@@ -1,23 +1,23 @@
 # Tonschnipsel
 ## [Abwegige](https://store.steampowered.com/app/1036850/Auf_Abwegen/) Audiospuren
 + Kia
-  - !heyichbins
-  - !optimal
-  - !bindabei
-  - !anklicken
-  - !yummie – !lecker
-  - !aufdieknie
-  - !fuchs
-  - !esistschlauer
-  - !frisses
-  - !weltraum
-  - !sagensiealle
-  - !machschon
-  - !tues
-  - !eingeschlafen
-  - !unglaublich
-  - !bisdann
-  - !ichmussaufhoeren – !ruhigeschicht
+  - `!heyichbins`
+  - `!optimal`
+  - `!bindabei`
+  - `!anklicken`
+  - `!yummie` oder `!lecker`
+  - `!aufdieknie`
+  - `!fuchs`
+  - `!esistschlauer`
+  - `!frisses`
+  - `!weltraum`
+  - `!sagensiealle`
+  - `!machschon`
+  - `!tues`
+  - `!eingeschlafen`
+  - `!unglaublich`
+  - `!bisdann`
+  - `!ichmussaufhoeren` oder `!ruhigeschicht`
 
 + Gegi
 !laeuft – !loift
