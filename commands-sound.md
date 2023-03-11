@@ -1,4 +1,4 @@
-#Tonschnipsel
+# Tonschnipsel
 ## [Abwegige](https://store.steampowered.com/app/1036850/Auf_Abwegen/) Audiospuren
 + Kia
 !heyichbins
@@ -31,7 +31,7 @@
 !wasanderesspielen – !tetris
 !endgegner
 
-##Gemichtes Hack
+## Gemichtes Hack
 !ens
 !hallo
 !uuhuhu
@@ -64,7 +64,7 @@
 !alarm (Zufallsausgabe)
 !sirene
 
-##Geschmeidige Leute
+## Geschmeidige Leute
 !dontcallmechicken
 !schnitzelchicken
 !hichicken
@@ -77,7 +77,7 @@
 !roof
 !roof?
 
-##Der unglaubliche [„Didi“](https://www.twitch.tv/1ncredible03) sagt es Euch!
+## Der unglaubliche [„Didi“](https://www.twitch.tv/1ncredible03) sagt es Euch!
 !daistjemand
 !praezedenzfall
 !zumkotzen
@@ -90,27 +90,27 @@
 !hilfe
 !gg
 
-##Aus der Blase
+## Aus der Blase
 !zwitschern
 !rausschneiden
 !hirnstattsexe – !unnahbar
 !guteidee
 
-##The Great Re-Sample
+## The Great Re-Sample
 !truthandtrust
 !intothefuture
 !4thirtech – !4ir
 !geneticengineering – !genetic
 !schwabrmx (Zufallsausgabe)
 
-##[Peters](https://www.youtube.com/c/PersonalPowerCoach) Ratschläge
+## [Peters](https://www.youtube.com/c/PersonalPowerCoach) Ratschläge
 !alsfrau
 !beinullanfangen – !0
 !hintern
 !leutehabenkeineahnung – !leute
 !arschvollarbeit
 
-##Meddl Loide
+## Meddl Loide
 !meddl (Zufallsausgabe)
 !meddler
 !irrenhaus
@@ -126,7 +126,7 @@
 !rainernein (Zufallsausgabe)
 !stolzaufeuch – !rainerstolz
 
-##Vier Fäuste für ein Kikeriki
+## Vier Fäuste für ein Kikeriki
 !richtigenriecher – !gurke
 !duzen
 !platonisch
@@ -136,7 +136,7 @@
 !qualle – !droemel
 !ohneheu – !pferd
 
-#Text-zu-Sprache
+# Text-zu-Sprache
 Bitte gehe mit *Vicki* gut um! Überstrapaziere sie und damit auch die komplette geschmeidige Gruppe hier nicht. Danke! <3
 + !tts *Text zur Aussprache*
 
