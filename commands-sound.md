@@ -140,4 +140,5 @@
 Bitte gehe mit *Vicki* gut um! Überstrapaziere sie und damit auch die komplette geschmeidige Gruppe hier nicht. Danke! <3
 
 ```!tts [Text zur Aussprache]```
+
 Freunde von Vicki kommen in zufälliger Reihenfolge mit `!ttsr` zur Sprache.
