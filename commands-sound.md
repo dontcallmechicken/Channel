@@ -84,7 +84,7 @@
 - `!pylot` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
 - `!pylot?` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
 - `!hiknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
-- `!ciaoknoospa`([SchokoGipfel](https://www.twitch.tv/schokogipfel))
+- `!ciaoknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
 - `!roof` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 - `!roof?` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 
