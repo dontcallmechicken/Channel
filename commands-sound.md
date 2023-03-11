@@ -32,15 +32,14 @@
   - `!endgegner`
 
 ## Gemichtes Hack
-+ Sonstiges
-  - `!ens`
-  - `!hallo` oder `!servus`, `!hi`, `!hello`
-  - `!uuhuhu` oder `!uhu`
-  - `!machensiesgut`
-  - `!dasargument`
-  - `!zukommenlassen` oder `!party`
-  - `!ichwillnichtmehr`
-  - `!lachen` _(Zufallsausgabe)_
+- `!ens`
+- `!hallo` oder `!servus`, `!hi`, `!hello`
+- `!uuhuhu` oder `!uhu`
+- `!machensiesgut`
+- `!dasargument`
+- `!zukommenlassen` oder `!party`
+- `!ichwillnichtmehr`
+- `!lachen` _(Zufallsausgabe)_
 
 + von SchokoGipfel
   - `!bistdusauer`
