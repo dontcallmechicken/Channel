@@ -33,19 +33,19 @@
 
 ## Gemichtes Hack
 + Sonstiges
-- `!ens`
-- `!hallo` oder `!servus`, `!hi`, `!hello`
-- `!uuhuhu` oder `!uhu`
-- `!machensiesgut`
-- `!dasargument`
-- `!zukommenlassen` oder `!party`
-- `!ichwillnichtmehr`
-- `!lachen` _(Zufallsausgabe)_
+  - `!ens`
+  - `!hallo` oder `!servus`, `!hi`, `!hello`
+  - `!uuhuhu` oder `!uhu`
+  - `!machensiesgut`
+  - `!dasargument`
+  - `!zukommenlassen` oder `!party`
+  - `!ichwillnichtmehr`
+  - `!lachen` _(Zufallsausgabe)_
 
 + SchokoGipfel
-- `!bistdusauer`
-- `!charakter` _(Zufallsausgabe)_
-- `!spaghettieis` _(Zufallsausgabe)_
+  - `!bistdusauer`
+  - `!charakter` _(Zufallsausgabe)_
+  - `!spaghettieis` _(Zufallsausgabe)_
 + Xoanaon
   -`!pizzapasta`
   - `!aehoehoe` oder `!konfus`
