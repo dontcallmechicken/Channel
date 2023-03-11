@@ -103,7 +103,7 @@
 
 ## Aus der Blase
 - `!zwitschern` ([Deppendenunziant](https://www.twitch.tv/denunziantenshow))
-- `!rausschneiden` (Raxel,[YT Gabrishka](https://www.youtube.com/user/Babe20Crazy))
+- `!rausschneiden` (Raxel, [YT Gabrishka](https://www.youtube.com/user/Babe20Crazy))
 - `!hirnstattsexe` oder `!unnahbar` ([HirnStattHetze](https://www.youtube.com/@hirnstatthetze))
 - `!guteidee` ([Shlomo](https://www.youtube.com/@katzenspainfullhd2764)
 
