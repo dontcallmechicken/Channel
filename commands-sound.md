@@ -32,7 +32,7 @@
   
 ## Gemichtes Hack
 - `!ens`
-- `!hallo` oder `!servus`, `!hi`, `!hello`
+- `!hallo` oder `!servus`, `!hi`, `!hello` _(Zufallsausgabe)_
 - `!uuhuhu` oder `!uhu`
 - `!lachen` _(Zufallsausgabe)_
 - `!blablabla`
