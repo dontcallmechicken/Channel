@@ -32,6 +32,7 @@
   - `!endgegner`
 
 ## Gemichtes Hack
++ Sonstiges
 - `!ens`
 - `!hallo` oder `!servus`, `!hi`, `!hello`
 - `!uuhuhu` oder `!uhu`
