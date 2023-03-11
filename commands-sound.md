@@ -38,7 +38,7 @@
 - `!lachen` _(Zufallsausgabe)_
 - `!blablabla`
 - `!machensiesgut`
-- !einkaufen
+- `!einkaufen`
 - `!ichhabeeinproblem` oder `!problem`
 - `!sofortklar` oder `!klarheit`
 - `!zwerg` _(Zufallsausgabe)_
