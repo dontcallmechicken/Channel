@@ -20,16 +20,16 @@
   - `!ichmussaufhoeren` oder `!ruhigeschicht`
 
 + Gegi
-!laeuft – !loift
-!gruendlich
-!wunderschoen
-!nurspielen
-!hungrigebiester
-!keinechance
-!tollererfolg
-!wasmachtderdennda – !wtf
-!wasanderesspielen – !tetris
-!endgegner
+  - `!laeuft` oder `!loift`
+  - `!gruendlich`
+  - `!wunderschoen`
+  - `!nurspielen`
+  - `!hungrigebiester`
+  - `!keinechance`
+  - `!tollererfolg`
+  - `!wasmachtderdennda` oder `!wtf`
+  - `!wasanderesspielen` oder `!tetris`
+  - `!endgegner`
 
 ## Gemichtes Hack
 !ens
