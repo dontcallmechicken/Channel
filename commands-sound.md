@@ -105,7 +105,7 @@
 - `!zwitschern` ([Deppendenunziant](https://www.twitch.tv/denunziantenshow))
 - `!rausschneiden` (Raxel, [YT Gabrishka](https://www.youtube.com/user/Babe20Crazy))
 - `!hirnstattsexe` oder `!unnahbar` ([HirnStattHetze](https://www.youtube.com/@hirnstatthetze))
-- `!guteidee` ([Shlomo](https://www.youtube.com/@katzenspainfullhd2764)
+- `!guteidee` ([Shlomo](https://www.youtube.com/@katzenspainfullhd2764))
 
 ## [The Great Re](https://www.weforum.org/great-reset/)-Sample
 - `!truthandtrust`
@@ -138,7 +138,7 @@
 - `!stolzaufeuch` oder `!rainerstolz`
 
 ## Vier Fäuste für ein Kikeriki
-- `!richtigenriecher` oder `![gurke](https://www.twitch.tv/pumiii)`
+- `!richtigenriecher` oder `!gurke`
 - `!duzen` oder `!gurke2`
 - `!platonisch`
 - `!daister` oder `!kai`
