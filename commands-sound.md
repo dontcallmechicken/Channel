@@ -42,21 +42,23 @@
   - `!ichwillnichtmehr`
   - `!lachen` _(Zufallsausgabe)_
 
-+ SchokoGipfel
++ von SchokoGipfel
   - `!bistdusauer`
   - `!charakter` _(Zufallsausgabe)_
   - `!spaghettieis` _(Zufallsausgabe)_
-+ Xoanaon
+
++ von Xoanaon
   -`!pizzapasta`
   - `!aehoehoe` oder `!konfus`
   - `!aehhh`
 
++ Wegscheider
+  - `!unvermoegen` oder `!dummheit`
+  - `!fragenueberfragen` oder `!fragen`
+
 !einkaufen
 !ichhabeeinproblem – !problem
-!unvermoegen – !dummheit
-!fragenueberfragen – !fragen
-!kikeriki (Zufallsausgabe)
-!wolfsgeheul – !wolf (Zufallsausgabe)
+
 !sofortklar – !klarheit
 !zwerg (Zufallsausgabe)
 !transphobic
@@ -64,10 +66,14 @@
 !panzervor
 !lektion – !blutgott
 !blablabla
-!troete
-!applaus (Zufallsausgabe)
-!alarm (Zufallsausgabe)
-!sirene
+
+## Geräusche und Tiere
+`!kikeriki` _(Zufallsausgabe)_
+`!wolfsgeheul` oder `!wolf` _(Zufallsausgabe)_
+`!troete` oder `!moepmoep`
+`!applaus` _(Zufallsausgabe)_
+`!alarm` _(Zufallsausgabe)_
+`!sirene`
 
 ## Geschmeidige Leute
 !dontcallmechicken
