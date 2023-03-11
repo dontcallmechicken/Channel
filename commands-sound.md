@@ -38,6 +38,14 @@
 - `!lachen` _(Zufallsausgabe)_
 - `!blablabla`
 - `!machensiesgut`
+- !einkaufen
+- `!ichhabeeinproblem` oder `!problem`
+- `!sofortklar` oder `!klarheit`
+- `!zwerg` _(Zufallsausgabe)_
+- `!transphobic`
+- `!fbiopenup`
+- `!panzervor`
+- `!lektion` oder `!blutgott`
 
 + von SchokoGipfel
   - `!bistdusauer`
@@ -57,16 +65,6 @@
 + Wegscheider
   - `!unvermoegen` oder `!dummheit`
   - `!fragenueberfragen` oder `!fragen`
-
-!einkaufen
-!ichhabeeinproblem – !problem
-
-!sofortklar – !klarheit
-!zwerg (Zufallsausgabe)
-!transphobic
-!fbiopenup
-!panzervor
-!lektion – !blutgott
 
 ## Geräusche und Tiere
 `!kikeriki` _(Zufallsausgabe)_
