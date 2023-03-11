@@ -69,37 +69,37 @@
 ## Geräusche und Tiere
 - `!kikeriki` _(Zufallsausgabe)_
 - `!wolfsgeheul` oder `!wolf` _(Zufallsausgabe)_
-- `!nadeldrucker` oder !endgegner`
+- `!nadeldrucker` oder `!endgegner`
 - `!troete` oder `!moepmoep`
 - `!applaus` _(Zufallsausgabe)_
 - `!alarm` _(Zufallsausgabe)_
 - `!sirene`
 
 ## Geschmeidige Leute
-!dontcallmechicken
-!schnitzelchicken
-!hichicken
-!dcmconline
-!jacy1112 – !jc
-!pylot
-!pylot?
-!hiknoospa
-!ciaoknoospa
-!roof
-!roof?
+`!dontcallmechicken` oder `!dcmc` ([Bielefeld](https://www.twitch.tv/mdbsmash))
+`!schnitzelchicken` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
+`!hichicken` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
+`!dcmconline` ([Kasper](https://www.twitch.tv/kasperkast))
+`!jacy1112` oder `!jc` ([Kasper](https://www.twitch.tv/kasperkast))
+`!pylot` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
+`!pylot?` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
+`!hiknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
+`!ciaoknoospa`([SchokoGipfel](https://www.twitch.tv/schokogipfel))
+`!roof` ([Bielefeld](https://www.twitch.tv/mdbsmash))
+`!roof?` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 
 ## Der unglaubliche [„Didi“](https://www.twitch.tv/1ncredible03) sagt es Euch!
-!daistjemand
-!praezedenzfall
-!zumkotzen
-!langsammalguthier – !esreicht (Zufallsausgabe)
-!bestermann
-!besteshuhn
-!wbchicken
-!jachicken
-!fakten
-!hilfe
-!gg
+`!daistjemand`
+`!praezedenzfall` oder`!pf`
+`!zumkotzen`
+`!langsammalguthier` oder `!esreicht` _(Zufallsausgabe)_
+`!bestermann`
+`!besteshuhn`
+`!wbchicken`
+`!jachicken`
+`!fakten`
+`!hilfe`
+`!gg`
 
 ## Aus der Blase
 !zwitschern
