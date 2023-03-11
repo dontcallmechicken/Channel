@@ -32,17 +32,17 @@
   - `!endgegner`
 
 ## Gemichtes Hack
-!ens
-!hallo
-!uuhuhu
-!machensiesgut
-!dasargument
-!zukommenlassen – !party
-!ichwillnichtmehr
-!lachen (Zufallsausgabe)
-!bistdusauer
-!charakter (Zufallsausgabe)
-!spaghettieis (Zufallsausgabe)
+`!ens`
+`!hallo` oder `!servus`, `!hi`, `!hello`
+`!uuhuhu` oder `!uhu`
+`!machensiesgut`
+`!dasargument`
+`!zukommenlassen` oder `!party`
+`!ichwillnichtmehr`
+`!lachen` _(Zufallsausgabe)_
+`!bistdusauer`
+`!charakter` _(Zufallsausgabe)_
+`!spaghettieis` _(Zufallsausgabe)_
 !pizzapasta
 !aehoehoe – !konfus
 !aehhh
