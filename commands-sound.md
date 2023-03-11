@@ -148,7 +148,7 @@
 - `!ohneheu` oder `!pferd`
 
 # Text-zu-Sprache
-Bitte gehe mit *Vicki* gut um! Überstrapaziere sie und damit auch die komplette geschmeidige Gruppe hier nicht. Danke! <3
+Bitte gehe mit *Vicki* gut um! Überstrapaziere sie und damit auch die komplette geschmeidige Gruppe nicht. Danke! <3
 
 ```!tts [Text zur Aussprache]```
 
