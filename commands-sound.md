@@ -58,9 +58,9 @@
   - `!aehhh`
 
 + aus [Bielefeld](https://www.twitch.tv/mdbsmash)
-- `!dasargument`
-- `!zukommenlassen` oder `!party`
-- `!ichwillnichtmehr`
+  - `!dasargument`
+  - `!zukommenlassen` oder `!party`
+  - `!ichwillnichtmehr`
 
 + [Der Wegscheider](https://www.servustv.com/aktuelles/b/der-wegscheider/aa-1q66uk71n1w11/)
   - `!unvermoegen` oder `!dummheit`
