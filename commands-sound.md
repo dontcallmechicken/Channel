@@ -29,8 +29,7 @@
   - `!tollererfolg`
   - `!wasmachtderdennda` oder `!wtf`
   - `!wasanderesspielen` oder `!tetris`
-  - `!endgegner`
-
+  
 ## Gemichtes Hack
 - `!ens`
 - `!hallo` oder `!servus`, `!hi`, `!hello`
@@ -45,6 +44,7 @@
 - `!transphobic`
 - `!fbiopenup`
 - `!panzervor`
+- `!endgegner`
 - `!lektion` oder `!blutgott`
 
 + von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
@@ -67,12 +67,13 @@
   - `!fragenueberfragen` oder `!fragen`
 
 ## Geräusche und Tiere
-`!kikeriki` _(Zufallsausgabe)_
-`!wolfsgeheul` oder `!wolf` _(Zufallsausgabe)_
-`!troete` oder `!moepmoep`
-`!applaus` _(Zufallsausgabe)_
-`!alarm` _(Zufallsausgabe)_
-`!sirene`
+- `!kikeriki` _(Zufallsausgabe)_
+- `!wolfsgeheul` oder `!wolf` _(Zufallsausgabe)_
+- `!nadeldrucker` oder !endgegner`
+- `!troete` oder `!moepmoep`
+- `!applaus` _(Zufallsausgabe)_
+- `!alarm` _(Zufallsausgabe)_
+- `!sirene`
 
 ## Geschmeidige Leute
 !dontcallmechicken
