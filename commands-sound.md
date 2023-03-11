@@ -76,17 +76,17 @@
 - `!sirene`
 
 ## Geschmeidige Leute
-`!dontcallmechicken` oder `!dcmc` ([Bielefeld](https://www.twitch.tv/mdbsmash))
-`!schnitzelchicken` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
-`!hichicken` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
-`!dcmconline` ([Kasper](https://www.twitch.tv/kasperkast))
-`!jacy1112` oder `!jc` ([Kasper](https://www.twitch.tv/kasperkast))
-`!pylot` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
-`!pylot?` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
-`!hiknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
-`!ciaoknoospa`([SchokoGipfel](https://www.twitch.tv/schokogipfel))
-`!roof` ([Bielefeld](https://www.twitch.tv/mdbsmash))
-`!roof?` ([Bielefeld](https://www.twitch.tv/mdbsmash))
+- `!dontcallmechicken` oder `!dcmc` ([Bielefeld](https://www.twitch.tv/mdbsmash))
+- `!schnitzelchicken` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
+- `!hichicken` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
+- `!dcmconline` ([Kasper](https://www.twitch.tv/kasperkast))
+- `!jacy1112` oder `!jc` ([Kasper](https://www.twitch.tv/kasperkast))
+- `!pylot` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
+- `!pylot?` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
+- `!hiknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
+- `!ciaoknoospa`([SchokoGipfel](https://www.twitch.tv/schokogipfel))
+- `!roof` ([Bielefeld](https://www.twitch.tv/mdbsmash))
+- `!roof?` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 
 ## Der unglaubliche [„Didi“](https://www.twitch.tv/1ncredible03) sagt es Euch!
 `!daistjemand`
