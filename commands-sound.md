@@ -89,63 +89,63 @@
 - `!roof?` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 
 ## Der unglaubliche [„Didi“](https://www.twitch.tv/1ncredible03) sagt es Euch!
-`!daistjemand`
-`!praezedenzfall` oder`!pf`
-`!zumkotzen`
-`!langsammalguthier` oder `!esreicht` _(Zufallsausgabe)_
-`!bestermann`
-`!besteshuhn`
-`!wbchicken`
-`!jachicken`
-`!fakten`
-`!hilfe`
-`!gg`
+- `!daistjemand`
+- `!praezedenzfall` oder`!pf`
+- `!zumkotzen`
+- `!langsammalguthier` oder `!esreicht` _(Zufallsausgabe)_
+- `!bestermann`
+- `!besteshuhn`
+- `!wbchicken`
+- `!jachicken`
+- `!fakten`
+- `!hilfe`
+- `!gg`
 
 ## Aus der Blase
-!zwitschern
-!rausschneiden
-!hirnstattsexe – !unnahbar
-!guteidee
+- `!zwitschern` ([Deppendenunziant](https://www.twitch.tv/denunziantenshow))
+- `!rausschneiden` (Raxel,[YT Gabrishka](https://www.youtube.com/user/Babe20Crazy)
+- `!hirnstattsexe` oder `!unnahbar` ([HirnStattHetze](https://www.youtube.com/@hirnstatthetze))
+- `!guteidee` ([Shlomo](https://www.youtube.com/@katzenspainfullhd2764)
 
-## The Great Re-Sample
-!truthandtrust
-!intothefuture
-!4thirtech – !4ir
-!geneticengineering – !genetic
-!schwabrmx (Zufallsausgabe)
+## [The Great Re](https://www.weforum.org/great-reset/)-Sample
+- `!truthandtrust`
+- `!intothefuture`
+- `!4thirtech` oder `!4ir`
+- `!geneticengineering` oder `!genetic`
+- `!schwabrmx` _(Zufallsausgabe)_
 
 ## [Peters](https://www.youtube.com/c/PersonalPowerCoach) Ratschläge
-!alsfrau
-!beinullanfangen – !0
-!hintern
-!leutehabenkeineahnung – !leute
-!arschvollarbeit
+- `!alsfrau`
+- `!beinullanfangen` oder `!0`
+- `!hintern`
+- `!leutehabenkeineahnung` oder `!leute`
+- `!arschvollarbeit`
 
 ## Meddl Loide
-!meddl (Zufallsausgabe)
-!meddler
-!irrenhaus
-!hundsrose
-!franke
-!dialekt – !rainercharakter
-!bittegehensie – !hauab (Zufallsausgabe)
-!haltdeinmaul – !hdm
-!getrolltwirdned - !keintrollen
-!verdammteaxt
-!ichbinhierdergott – !gott
-!muhahaha – !raineslachen
-!rainernein (Zufallsausgabe)
-!stolzaufeuch – !rainerstolz
+- `!meddl` _(Zufallsausgabe)_
+- `!meddler`
+- `!irrenhaus`
+- `!hundsrose`
+- `!franke`
+- `!dialekt` oder `!rainercharakter`
+- `!bittegehensie` oder `!hauab` _(Zufallsausgabe)_
+- `!haltdeinmaul` oder `!hdm`
+- `!getrolltwirdned` oder `!keintrollen`
+- `!verdammteaxt`
+- `!ichbinhierdergott` oder `!gott`
+- `!muhahaha` oder `!raineslachen`
+- `!rainernein` _(Zufallsausgabe)_
+- `!stolzaufeuch` oder `!rainerstolz`
 
 ## Vier Fäuste für ein Kikeriki
-!richtigenriecher – !gurke
-!duzen
-!platonisch
-!daister – !kai
-!fernglas
-!supersteak
-!qualle – !droemel
-!ohneheu – !pferd
+- `!richtigenriecher` oder `![gurke](https://www.twitch.tv/pumiii)`
+- `!duzen` oder `!gurke2`
+- `!platonisch`
+- `!daister` oder `!kai`
+- `!fernglas`
+- `!supersteak`
+- `!qualle` oder `!droemel`
+- `!ohneheu` oder `!pferd`
 
 # Text-zu-Sprache
 Bitte gehe mit *Vicki* gut um! Überstrapaziere sie und damit auch die komplette geschmeidige Gruppe hier nicht. Danke! <3
