@@ -47,13 +47,13 @@
 - `!panzervor`
 - `!lektion` oder `!blutgott`
 
-+ von SchokoGipfel
++ von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
   - `!bistdusauer`
   - `!charakter` _(Zufallsausgabe)_
   - `!spaghettieis` _(Zufallsausgabe)_
 
-+ von Xoanaon
-  -`!pizzapasta`
++ von [Xoanaon](https://www.twitch.tv/xoanon)
+  - `!pizzapasta`
   - `!aehoehoe` oder `!konfus`
   - `!aehhh`
 
