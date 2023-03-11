@@ -35,11 +35,9 @@
 - `!ens`
 - `!hallo` oder `!servus`, `!hi`, `!hello`
 - `!uuhuhu` oder `!uhu`
-- `!machensiesgut`
-- `!dasargument`
-- `!zukommenlassen` oder `!party`
-- `!ichwillnichtmehr`
 - `!lachen` _(Zufallsausgabe)_
+- `!blablabla`
+- `!machensiesgut`
 
 + von SchokoGipfel
   - `!bistdusauer`
@@ -50,6 +48,11 @@
   -`!pizzapasta`
   - `!aehoehoe` oder `!konfus`
   - `!aehhh`
+
++ aus Bielefeld
+- `!dasargument`
+- `!zukommenlassen` oder `!party`
+- `!ichwillnichtmehr`
 
 + Wegscheider
   - `!unvermoegen` oder `!dummheit`
@@ -64,7 +67,6 @@
 !fbiopenup
 !panzervor
 !lektion – !blutgott
-!blablabla
 
 ## Geräusche und Tiere
 `!kikeriki` _(Zufallsausgabe)_
