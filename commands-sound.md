@@ -57,12 +57,12 @@
   - `!aehoehoe` oder `!konfus`
   - `!aehhh`
 
-+ aus Bielefeld
++ aus [Bielefeld](https://www.twitch.tv/mdbsmash)
 - `!dasargument`
 - `!zukommenlassen` oder `!party`
 - `!ichwillnichtmehr`
 
-+ Wegscheider
++ [Der Wegscheider](https://www.servustv.com/aktuelles/b/der-wegscheider/aa-1q66uk71n1w11/)
   - `!unvermoegen` oder `!dummheit`
   - `!fragenueberfragen` oder `!fragen`
 
