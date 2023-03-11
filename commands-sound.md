@@ -32,20 +32,24 @@
   - `!endgegner`
 
 ## Gemichtes Hack
-`!ens`
-`!hallo` oder `!servus`, `!hi`, `!hello`
-`!uuhuhu` oder `!uhu`
-`!machensiesgut`
-`!dasargument`
-`!zukommenlassen` oder `!party`
-`!ichwillnichtmehr`
-`!lachen` _(Zufallsausgabe)_
-`!bistdusauer`
-`!charakter` _(Zufallsausgabe)_
-`!spaghettieis` _(Zufallsausgabe)_
-!pizzapasta
-!aehoehoe – !konfus
-!aehhh
+- `!ens`
+- `!hallo` oder `!servus`, `!hi`, `!hello`
+- `!uuhuhu` oder `!uhu`
+- `!machensiesgut`
+- `!dasargument`
+- `!zukommenlassen` oder `!party`
+- `!ichwillnichtmehr`
+- `!lachen` _(Zufallsausgabe)_
+
++ SchokoGipfel
+- `!bistdusauer`
+- `!charakter` _(Zufallsausgabe)_
+- `!spaghettieis` _(Zufallsausgabe)_
++ Xoanaon
+  -`!pizzapasta`
+  - `!aehoehoe` oder `!konfus`
+  - `!aehhh`
+
 !einkaufen
 !ichhabeeinproblem – !problem
 !unvermoegen – !dummheit
