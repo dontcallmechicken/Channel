@@ -44,6 +44,7 @@
 - `!zwerg` _(Zufallsausgabe)_
 - `!transphobic`
 - `!fbiopenup`
+- `!anzeige`
 - `!panzervor`
 - `!endgegner`
 - `!lektion` oder `!blutgott`
@@ -80,6 +81,7 @@
 - `!schnitzelchicken` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
 - `!hichicken` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
 - `!dcmconline` ([Kasper](https://www.twitch.tv/kasperkast))
+- `!enigmatischechicken` ([Deathi](https://www.twitch.tv/creationofdeath))
 - `!jacy1112` oder `!jc` ([Kasper](https://www.twitch.tv/kasperkast))
 - `!pylot` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
 - `!pylot?` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
