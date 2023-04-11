@@ -83,7 +83,7 @@
 - `!dcmconline` ([Kasper](https://www.twitch.tv/kasperkast))
 - `!enigmatischechicken` ([Deathi](https://www.twitch.tv/creationofdeath))
 - `!jacy1112` oder `!jc` ([Kasper](https://www.twitch.tv/kasperkast))
-- `!pylot` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
+- `!pylot` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
 - `!pylot?` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
 - `!hiknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
 - `!ciaoknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
