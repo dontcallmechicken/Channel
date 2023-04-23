@@ -82,6 +82,7 @@
 - `!hichicken` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
 - `!dcmconline` ([Kasper](https://www.twitch.tv/kasperkast))
 - `!enigmatischechicken` ([Deathi](https://www.twitch.tv/creationofdeath))
+- `!gutenachtchicken` oder`!schlafdichaus` ([GesperrtePerson](https://www.twitch.tv/gesperrteperson))
 - `!jacy1112` oder `!jc` ([Kasper](https://www.twitch.tv/kasperkast))
 - `!pylot` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
 - `!pylot?` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
