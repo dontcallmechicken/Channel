@@ -1,3 +1,14 @@
+# Text-zu-Sprache
+Bitte gehe mit *Vicki* gut um! Überstrapaziere sie und damit auch die komplette geschmeidige Gruppe nicht. Danke! <3
+```!tts [Text zur Aussprache]```
+Freunde von Vicki kommen in zufälliger Reihenfolge mit `!ttsr` zur Sprache.
+
+# Musik
+Musik kann über den Sound-Alert-Bot während einer Sendung direkt abgespielt werden.
+Mit dem Chatbefehl `!musik` wird die Liste der verfügbaren Lieder als Chatnachricht ausgegeben.
+
+Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pausenhuhn“, Musikvideos per Chatbefehl abspielen zu lassen. Siehe dazu die Befehlsübersichtsseite von FireBot (!commands).
+
 # Tonschnipsel
 ## [Abwegige](https://store.steampowered.com/app/1036850/Auf_Abwegen/) Audiospuren
 + Kia
@@ -149,10 +160,3 @@
 - `!supersteak`
 - `!qualle` oder `!droemel`
 - `!ohneheu` oder `!pferd`
-
-# Text-zu-Sprache
-Bitte gehe mit *Vicki* gut um! Überstrapaziere sie und damit auch die komplette geschmeidige Gruppe nicht. Danke! <3
-
-```!tts [Text zur Aussprache]```
-
-Freunde von Vicki kommen in zufälliger Reihenfolge mit `!ttsr` zur Sprache.
