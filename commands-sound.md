@@ -154,7 +154,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!stolzaufeuch` oder `!rainerstolz`
 
 ## Deutsch-Brasilianische Freundschaft / Amizade Brasil-Alemanha
-- `!querocafe`
+- `!querocafe` _(„Ich will Kaffee!“)_
 
 ## Vier Fäuste für ein Kikeriki
 - `!richtigenriecher` oder `!gurke`
