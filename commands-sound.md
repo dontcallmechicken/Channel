@@ -156,9 +156,9 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 ## Deutsch-Brasilianische Freundschaft / Amizade Brasil-Alemanha
 - `!querocafe` – _„Ich will Kaffee!“_; [Quero Café!](https://www.youtube.com/watch?v=VxRpkfcXEpA)
 - `!legalbemlocoempolgante` oder `!lble` – _„Toll, sehr verrückt, Spannend!“_; [Legal, bem loco, Empolgante!](https://www.youtube.com/watch?v=lpaRFQOOTY8)
-- `!legal` – _„toll/super/cool“_
-- `!bemloco` – _„sehr verrückt/ganz schön verrückt“_
-- `!empolgante` – _„spannend/aufregend“_
+- `!legal` – _„toll/ super/ cool“_
+- `!bemloco` – _„sehr verrückt/ ganz schön verrückt“_
+- `!empolgante` – _„spannend/ aufregend“_
 
 ## Vier Fäuste für ein Kikeriki
 - `!richtigenriecher` oder `!gurke`
