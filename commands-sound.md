@@ -153,6 +153,9 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!rainernein` _(Zufallsausgabe)_
 - `!stolzaufeuch` oder `!rainerstolz`
 
+## Deutsch-Brasilianische Freundschaft / Amizade Brasil-Alemanha
+- `!querocafe`
+
 ## Vier Fäuste für ein Kikeriki
 - `!richtigenriecher` oder `!gurke`
 - `!duzen` oder `!gurke2`
