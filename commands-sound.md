@@ -159,6 +159,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!legal` – _„toll/ super/ cool“_
 - `!bemloco` – _„sehr verrückt/ ganz schön verrückt“_
 - `!empolgante` – _„spannend/ aufregend“_
+- `!empolgantesong` oder `!empolgantermx` – Musikalischer [Remix von Tibu Fun](https://www.youtube.com/watch?v=or4KcD8vVPs)
 
 ## Vier Fäuste für ein Kikeriki
 - `!richtigenriecher` oder `!gurke`
