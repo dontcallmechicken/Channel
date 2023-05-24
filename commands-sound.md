@@ -63,7 +63,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!lektion` oder `!blutgott`
 
 + gefunden bei [Nemi](https://www.twitch.tv/findetnemi)
-- `!klug`
+  - `!klug`
 
 + von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
   - `!bistdusauer`
