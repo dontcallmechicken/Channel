@@ -62,6 +62,9 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!endgegner`
 - `!lektion` oder `!blutgott`
 
++ gefunden bei [Nemi](https://www.twitch.tv/findetnemi)
+- `!klug`
+
 + von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
   - `!bistdusauer`
   - `!charakter` _(Zufallsausgabe)_
