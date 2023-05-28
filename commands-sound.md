@@ -65,7 +65,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 + gefunden bei [Nemi](https://www.twitch.tv/findetnemi)
   - `!klug`
 
-+ von bei [Danny](https://www.twitch.tv/dannyls04)
++ von [Danny](https://www.twitch.tv/dannyls04)
   - `!wasmeinstdu`
  
 + von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
