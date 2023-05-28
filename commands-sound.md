@@ -61,12 +61,10 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!panzervor`
 - `!endgegner`
 - `!lektion` oder `!blutgott`
+- `!eurocrem` _(Zufallsausgabe)_
+- `!klug` gefunden bei [Nemi](https://www.twitch.tv/findetnemi)
+- `!wasmeinstdu` von [Danny](https://www.twitch.tv/dannyls04)
 
-+ gefunden bei [Nemi](https://www.twitch.tv/findetnemi)
-  - `!klug`
-
-+ von [Danny](https://www.twitch.tv/dannyls04)
-  - `!wasmeinstdu`
  
 + von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
   - `!bistdusauer`
