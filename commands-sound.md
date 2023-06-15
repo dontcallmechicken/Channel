@@ -95,6 +95,8 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 
 ## Geschmeidige Leute
 - `!dontcallmechicken` oder `!dcmc` ([Bielefeld](https://www.twitch.tv/mdbsmash))
+    - `!dcmckasper` ([Kasper](https://www.twitch.tv/kasperkast))
+    - `!dcmcbielefeld` oder `!dcmcmdbsmash` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 - `!schnitzelchicken` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
 - `!hichicken` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
 - `!dcmconline` ([Kasper](https://www.twitch.tv/kasperkast))
