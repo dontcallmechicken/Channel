@@ -63,7 +63,6 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!lektion` oder `!blutgott`
 - `!klug` gefunden bei [Nemi](https://www.twitch.tv/findetnemi)
 - `!wasmeinstdu` von [Danny](https://www.twitch.tv/dannyls04)
-
  
 + von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
   - `!bistdusauer`
@@ -115,6 +114,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!enigmatischechicken` ([Deathi](https://www.twitch.tv/creationofdeath))
 - `!gutenachtchicken` oder`!schlafdichaus` ([GesperrtePerson](https://www.twitch.tv/gesperrteperson))
 - `!jacy1112` oder `!jc` _(Zufallsausgabe)_ ([Kasper](https://www.twitch.tv/kasperkast))
+- `!jacy2euro` oder `!jc2euro` ([Kasper](https://www.twitch.tv/kasperkast))
 - `!pylot` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
 - `!pylot?` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
 - `!hiknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
@@ -127,6 +127,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!rausschneiden` (Raxel, [YT Gabrishka](https://www.youtube.com/user/Babe20Crazy))
 - `!hirnstattsexe` oder `!unnahbar` ([HirnStattHetze](https://www.youtube.com/@hirnstatthetze))
 - `!guteidee` ([Shlomo](https://www.youtube.com/@katzenspainfullhd2764))
+- `!vielendank` ([Kasper](https://www.twitch.tv/kasperkast))
 - `!eurocrem` _(Zufallsausgabe)_
   - `!eurocremkasper` _(Zufallsausgabe)_ ([Kasper](https://www.twitch.tv/kasperkast))
   - `!eurocremervin` _(Zufallsausgabe)_ ([Ervin](https://www.twitch.tv/proletopia))
