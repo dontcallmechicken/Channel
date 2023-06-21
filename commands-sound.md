@@ -61,7 +61,6 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!panzervor`
 - `!endgegner`
 - `!lektion` oder `!blutgott`
-- `!eurocrem` _(Zufallsausgabe)_
 - `!klug` gefunden bei [Nemi](https://www.twitch.tv/findetnemi)
 - `!wasmeinstdu` von [Danny](https://www.twitch.tv/dannyls04)
 
@@ -128,6 +127,10 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!rausschneiden` (Raxel, [YT Gabrishka](https://www.youtube.com/user/Babe20Crazy))
 - `!hirnstattsexe` oder `!unnahbar` ([HirnStattHetze](https://www.youtube.com/@hirnstatthetze))
 - `!guteidee` ([Shlomo](https://www.youtube.com/@katzenspainfullhd2764))
+- `!eurocrem` _(Zufallsausgabe)_
+  - `!eurocremkasper` _(Zufallsausgabe)_ ([Kasper](https://www.twitch.tv/kasperkast))
+  - `!eurocremervin` _(Zufallsausgabe)_ ([Ervin](https://www.twitch.tv/proletopia))
+  - `!eurocremdude` ([ThatSandwichDude](https://www.twitch.tv/thatsandwichdude))
 
 ## [The Great Re](https://www.weforum.org/great-reset/)-Sample
 - `!truthandtrust`
