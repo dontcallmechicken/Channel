@@ -92,6 +92,19 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!alarm` _(Zufallsausgabe)_
 - `!sirene`
 
+## Der unglaubliche [„Didi“](https://www.twitch.tv/1ncredible03) sagt es Euch!
+- `!daistjemand`
+- `!praezedenzfall` oder`!pf`
+- `!zumkotzen`
+- `!langsammalguthier` oder `!esreicht` _(Zufallsausgabe)_
+- `!bestermann`
+- `!besteshuhn`
+- `!wbchicken`
+- `!jachicken`
+- `!fakten`
+- `!hilfe`
+- `!gg`
+
 ## Geschmeidige Leute
 - `!dontcallmechicken` oder `!dcmc` _(Zufallsausgabe)_
     - `!dcmckasper` _(Zufallsausgabe)_ ([Kasper](https://www.twitch.tv/kasperkast))
@@ -108,19 +121,6 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!ciaoknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
 - `!roof` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 - `!roof?` ([Bielefeld](https://www.twitch.tv/mdbsmash))
-
-## Der unglaubliche [„Didi“](https://www.twitch.tv/1ncredible03) sagt es Euch!
-- `!daistjemand`
-- `!praezedenzfall` oder`!pf`
-- `!zumkotzen`
-- `!langsammalguthier` oder `!esreicht` _(Zufallsausgabe)_
-- `!bestermann`
-- `!besteshuhn`
-- `!wbchicken`
-- `!jachicken`
-- `!fakten`
-- `!hilfe`
-- `!gg`
 
 ## Aus der Blase
 - `!zwitschern` ([Deppendenunziant](https://www.twitch.tv/denunziantenshow))
