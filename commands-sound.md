@@ -132,6 +132,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
   - `!eurocremkasper` _(Zufallsausgabe)_ ([Kasper](https://www.twitch.tv/kasperkast))
   - `!eurocremervin` _(Zufallsausgabe)_ ([Ervin](https://www.twitch.tv/proletopia))
   - `!eurocremdude` ([ThatSandwichDude](https://www.twitch.tv/thatsandwichdude))
+- `!stolzmonat` ([Kasper](https://www.twitch.tv/kasperkast))
 
 ## [The Great Re](https://www.weforum.org/great-reset/)-Sample
 - `!truthandtrust`
