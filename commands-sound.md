@@ -134,6 +134,13 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
   - `!eurocremdude` ([ThatSandwichDude](https://www.twitch.tv/thatsandwichdude))
 - `!stolzmonat` ([Kasper](https://www.twitch.tv/kasperkast))
 
+## Sitzrasenmäher
+- `!sitzrasenmaeher` _(Zufallsausgabe)_
+- `!dasisteinsitzrasenmaeher`
+- `!alltagssitzrasophobie` oder `!sitzrasophobie`
+- `!sitzrasophobieeinhaltbieten` oder `!stopptsitzrasophobie`
+- `!sitzrasenmaeherschuetzen`
+
 ## [The Great Re](https://www.weforum.org/great-reset/)-Sample
 - `!truthandtrust`
 - `!intothefuture`
