@@ -135,11 +135,11 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!stolzmonat` ([Kasper](https://www.twitch.tv/kasperkast))
 
 ## Sitzrasenmäher
-- `!sitzrasenmaeher` _(Zufallsausgabe)_
-- `!dasisteinsitzrasenmaeher`
-- `!alltagssitzrasophobie` oder `!sitzrasophobie`
-- `!sitzrasophobieeinhaltbieten` oder `!stopptsitzrasophobie`
-- `!sitzrasenmaeherschuetzen`
+- `!sitzrasenmaeher` _(Zufallsausgabe)_ ([Kasper](https://www.twitch.tv/kasperkast))
+- `!dasisteinsitzrasenmaeher` ([Kasper](https://www.twitch.tv/kasperkast))
+- `!alltagssitzrasophobie` oder `!sitzrasophobie` ([Kasper](https://www.twitch.tv/kasperkast))
+- `!sitzrasophobieeinhaltbieten` oder `!stopptsitzrasophobie` ([Kasper](https://www.twitch.tv/kasperkast))
+- `!sitzrasenmaeherschuetzen` ([Miró Wolsfeld](https://www.youtube.com/@unblogd))
 
 ## [The Great Re](https://www.weforum.org/great-reset/)-Sample
 - `!truthandtrust`
