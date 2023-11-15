@@ -91,7 +91,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!alarm` _(Zufallsausgabe)_
 - `!sirene`
 
-## Der unglaubliche [„Didi“](https://www.twitch.tv/1ncredible03) sagt es Euch!
+## Der unglaubliche [„Didi“](https://www.twitch.tv/DxnnoLoL) sagt es Euch!
 - `!daistjemand`
 - `!praezedenzfall` oder`!pf`
 - `!zumkotzen`
