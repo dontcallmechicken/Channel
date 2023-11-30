@@ -111,6 +111,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!schnitzelchicken` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
 - `!hichicken` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
 - `!dcmconline` ([Kasper](https://www.twitch.tv/kasperkast))
+- `!karottensaft` (Pandamädchen, [RealtalkIstSUS](https://www.twitch.tv/realtalkistsus))
 - `!enigmatischechicken` ([Deathi](https://www.twitch.tv/creationofdeath))
 - `!gutenachtchicken` oder`!schlafdichaus` ([GesperrtePerson](https://www.twitch.tv/gesperrteperson))
 - `!jacy1112` oder `!jc` _(Zufallsausgabe)_ ([Kasper](https://www.twitch.tv/kasperkast))
