@@ -72,7 +72,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 + von [Xoanaon](https://www.twitch.tv/xoanon)
   - `!pizzapasta`
   - `!aehoehoe` oder `!konfus`
-  - `!aehhh`
+  - `!aehhh` (`!aeh` geht auch)
 
 + aus [Bielefeld](https://www.twitch.tv/mdbsmash)
   - `!dasargument`
@@ -81,6 +81,10 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 + [Der Wegscheider](https://www.servustv.com/aktuelles/b/der-wegscheider/aa-1q66uk71n1w11/)
   - `!unvermoegen` oder `!dummheit`
   - `!fragenueberfragen` oder `!fragen`
+
++ [Aus der Bohnendose](https://www.youtube.com/@ROCKETBEANSTV)
+  - `!woliegtderfehler` oder `!fehleranalyse`, Etienne fragt mal nach
+  - `!speichellecker` oder `!regierungskonform`, Simon spricht es aus! _(Zufallsausgabe)_
 
 ## Geräusche und Tiere
 - `!kikeriki` _(Zufallsausgabe)_
