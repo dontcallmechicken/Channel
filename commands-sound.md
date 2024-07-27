@@ -48,6 +48,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!hallo` oder `!servus`, `!hi`, `!hello` _(Zufallsausgabe)_
 - `!uuhuhu` oder `!uhu`
 - `!lachen` _(Zufallsausgabe)_
+- `!geil` _(Zufallsausgabe)_
 - `!blablabla`
 - `!machensiesgut`
 - `!einkaufen`
@@ -61,9 +62,13 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!panzervor`
 - `!endgegner`
 - `!lektion` oder `!blutgott`
-- `!klug` gefunden bei [Nemi](https://www.twitch.tv/findetnemi)
-- `!wasmeinstdu` von [Danny](https://www.twitch.tv/dannyls04)
- 
+
++ bei [Nemi](https://www.twitch.tv/findetnemi) gefunden
+  - `!klug`
+  - `!nemigeil` oder `!geilnemi`
++ von [Danny](https://www.twitch.tv/dannyls04)
+  - `!wasmeinstdu`
+  - `!dannygeil` oder `!geildanny`
 + von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
   - `!bistdusauer`
   - `!charakter` _(Zufallsausgabe)_
