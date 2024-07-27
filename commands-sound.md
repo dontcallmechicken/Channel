@@ -64,6 +64,16 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!endgegner`
 - `!lektion` oder `!blutgott`
 
+## Geräusche und Tiere
+- `!kikeriki` _(Zufallsausgabe)_
+- `!wolfsgeheul` oder `!wolf` _(Zufallsausgabe)_
+- `!nadeldrucker` oder `!endgegner`
+- `!troete` oder `!moepmoep`
+- `!applaus` _(Zufallsausgabe)_
+- `!alarm` _(Zufallsausgabe)_
+- `!sirene`
+
+## Freunde, Bekannte oder von Bekannten Leuten
 + bei [Nemi](https://www.twitch.tv/findetnemi) gefunden
   - `!klug`
   - `!nemigeil` oder `!geilnemi`
@@ -93,15 +103,6 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 + [Aus der Bohnendose](https://www.youtube.com/@ROCKETBEANSTV)
   - `!woliegtderfehler` oder `!fehleranalyse`, Etienne fragt mal nach
   - `!speichellecker` oder `!regierungskonform`, Simon spricht es aus! _(Zufallsausgabe)_
-
-## Geräusche und Tiere
-- `!kikeriki` _(Zufallsausgabe)_
-- `!wolfsgeheul` oder `!wolf` _(Zufallsausgabe)_
-- `!nadeldrucker` oder `!endgegner`
-- `!troete` oder `!moepmoep`
-- `!applaus` _(Zufallsausgabe)_
-- `!alarm` _(Zufallsausgabe)_
-- `!sirene`
 
 ## Der unglaubliche [„Didi“](https://www.twitch.tv/DxnnoLoL) sagt es Euch!
 - `!daistjemand`
