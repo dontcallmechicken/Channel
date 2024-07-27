@@ -78,7 +78,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
   - `!klug`
   - `!nemigeil` oder `!geilnemi`
   - `!nemikonbanwa` oder `!konbanwanemi`
-  - 
+    
 + von [Danny](https://www.twitch.tv/dannyls04)
   - `!wasmeinstdu`
   - `!dannygeil` oder `!geildanny`
