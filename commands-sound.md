@@ -74,7 +74,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!sirene`
 
 ## Freunde, Bekannte oder von Bekannten Leuten
-+ bei [Nemi](https://www.twitch.tv/findetnemi) gefunden
+### bei [Nemi](https://www.twitch.tv/findetnemi) gefunden
   - `!klug`
   - `!nemigeil` oder `!geilnemi`
   - `!nemikonbanwa` oder `!konbanwanemi`
