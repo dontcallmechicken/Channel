@@ -82,6 +82,8 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 + von [Danny](https://www.twitch.tv/dannyls04)
   - `!wasmeinstdu`
   - `!dannygeil` oder `!geildanny`
+  - `!scheibenkaese`
+
 + von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
   - `!bistdusauer`
   - `!charakter` _(Zufallsausgabe)_
