@@ -46,6 +46,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 ## Gemichtes Hack
 - `!ens`
 - `!hallo` oder `!servus`, `!hi`, `!hello` _(Zufallsausgabe)_
+- `!konbanwa` (Guten Abend) _(Zufallsausgabe)_
 - `!uuhuhu` oder `!uhu`
 - `!lachen` _(Zufallsausgabe)_
 - `!geil` _(Zufallsausgabe)_
@@ -66,6 +67,8 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 + bei [Nemi](https://www.twitch.tv/findetnemi) gefunden
   - `!klug`
   - `!nemigeil` oder `!geilnemi`
+  - `!nemikonbanwa` oder `!konbanwanemi`
+  - 
 + von [Danny](https://www.twitch.tv/dannyls04)
   - `!wasmeinstdu`
   - `!dannygeil` oder `!geildanny`
