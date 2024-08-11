@@ -137,6 +137,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!ciaoknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
 - `!roof` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 - `!roof?` ([Bielefeld](https://www.twitch.tv/mdbsmash))
+- `!gockellacht`
 
 ## Aus der Blase
 - `!zwitschern` ([Deppendenunziant](https://www.twitch.tv/denunziantenshow))
