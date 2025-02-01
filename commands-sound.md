@@ -86,7 +86,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 + von [BeccsBacon](https://www.twitch.tv/beccsbacon)
   - `!fleisch` _(Zufallsausgabe)_
 
-+ von [SchokoGipfel](https://www.twitch.tv/schokogipfel)
++ von SchokoGipfel aka [Lina](https://www.twitch.tv/linashokora)
   - `!bistdusauer`
   - `!charakter` _(Zufallsausgabe)_
   - `!spaghettieis` _(Zufallsausgabe)_
@@ -126,7 +126,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
     - `!dcmckasper` _(Zufallsausgabe)_ ([Kasper](https://www.twitch.tv/kasperkast))
     - `!dcmcbielefeld` oder `!dcmcmdbsmash` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 - `!schnitzelchicken` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
-- `!hichicken` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
+- `!hichicken` (SchokoGipfel aka [Lina](https://www.twitch.tv/linashokora))
 - `!dcmconline` ([Kasper](https://www.twitch.tv/kasperkast))
 - `!karottensaft` (Pandamädchen, [Zwischen den Welten](https://www.twitch.tv/zwischendenwelten_))
 - `!enigmatischechicken` ([Deathi](https://www.twitch.tv/creationofdeath))
@@ -135,8 +135,8 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!jacy2euro` oder `!jc2euro` ([Kasper](https://www.twitch.tv/kasperkast))
 - `!pylot` ([Tetzel](https://www.twitch.tv/halbgottschmiede))
 - `!pylot?` ([Käpt'n Chip](https://www.youtube.com/channel/UCmTeipddHdeyiKjfEyS5mhA))
-- `!hiknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
-- `!ciaoknoospa` ([SchokoGipfel](https://www.twitch.tv/schokogipfel))
+- `!hiknoospa` (SchokoGipfel aka [Lina](https://www.twitch.tv/linashokora))
+- `!ciaoknoospa` (SchokoGipfel aka [Lina](https://www.twitch.tv/linashokora))
 - `!roof` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 - `!roof?` ([Bielefeld](https://www.twitch.tv/mdbsmash))
 - `!gockellacht`
