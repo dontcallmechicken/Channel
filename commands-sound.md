@@ -189,6 +189,7 @@ Des weiteren gibt es die Möglichkeit während einer Pause, im sogenannten „Pa
 - `!muhahaha` oder `!raineslachen`
 - `!rainernein` _(Zufallsausgabe)_
 - `!stolzaufeuch` oder `!rainerstolz`
+- `!waszitterstdu` oder `!waszuckstdu` _(Zufallsausgabe)_
 
 ## Deutsch-Brasilianische Freundschaft / Amizade Brasil-Alemanha
 - `!querocafe` – _„Ich will Kaffee!“_; [Quero Café!](https://www.youtube.com/watch?v=VxRpkfcXEpA)
