@@ -1,1 +1,0 @@
-Spiel den Gegner, nicht die Karten! Große Pokerrunde am Freitag, den 4. Juli 2025, um 19:00 Uhr. $if[$streamer == dontcallmechicken, $twitchChannelUrl[jacksonfreeze], $twitchChannelUrl[dontcallmechicken]]
