@@ -3,8 +3,8 @@
 ## 2022
 * Clock Tower (1995, SNES)  
 eine Sitzung, 17.10.22
-  * Japanische Originalversion mit inofiziellem englischen Sprachpatch
-  * Name der PSX Version von 1997: Clock Tower: The First Fear
+Japanische Originalversion mit inofiziellem englischen Sprachpatch
+  * Info: Name der PSX Version von 1997: Clock Tower: The First Fear
 * Clock Tower (Japan: Clock Tower 2 (1996, PSX)  
   zwei Sitzungen, 20.10.22 und 21.10.22
 * Phantasmagoria 2: Labor des Grauens (1996, PC)  
