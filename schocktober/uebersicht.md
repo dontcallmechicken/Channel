@@ -1,6 +1,6 @@
-#Schocktober
+# Schocktober
 
-##2022
+## 2022
 * Clock Tower (1995, SNES)  
   PSX Version, 1997: Clock Tower: The First Fear  
   eine Sitzung; 17.10.22
@@ -16,7 +16,7 @@ Montagsdemo im Schocktober, 24.10.22
  Montagsdemo im Schocktober, 24.10.22
     * One-way Ticket – Episode 2 (itch.io), 17.11.2022
 
-##2023
+## 2023
 * Zombie Night Terror (2016, PC)  
   acht Sitzungen, 03.10.23 - 28.11.23
 * Phantasmagoria (1995, PC)  
@@ -24,8 +24,8 @@ Montagsdemo im Schocktober, 24.10.22
 * Clock Tower II: The Struggle Within (JP 1998, NA 1999, PSX)  
   sechs Sitzungen, 15.10.23 - 07.12.23, nicht beendet
 
-##2024
+## 2024
 Kein Schocktober. Vorher lange Streampause von sechs Monaten.
 
-##2025
+## 2025
 Wird geplant.
