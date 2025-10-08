@@ -26,7 +26,7 @@ Montagsdemo im Schocktober, 24.10.22
   sechs Sitzungen, 15.10.23 - 07.12.23, nicht beendet
 
 ## 2024
-Kein Schocktober. Vorher lange Streampause von sechs Monaten.
+Schocktober mit Dokumentationen über das Genre des Horrorfilms, Gesellschaftliche Betrachtung des Horrorfilmes und über echte „Horrorfälle“.
 
 ## 2025
 Für geplante und angedachte Spiele siehe die [Übersicht zum Schocktober 2025](2025.md).
