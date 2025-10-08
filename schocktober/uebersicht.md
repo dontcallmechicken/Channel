@@ -29,4 +29,8 @@ Montagsdemo im Schocktober, 24.10.22
 Kein Schocktober. Vorher lange Streampause von sechs Monaten.
 
 ## 2025
-Wird geplant.
+Für geplante und angedachte Spiele siehe die [Übersicht zum Schocktober 2025](2025.md).
+
+* [Don't Escape Trilogy (2019)](2025.md#dont-escape-trilogy-2019)  
+  Point-and-Click, Adventure, Horror  
+  alle drei Teile in einer Sitzng, 07.08.25
