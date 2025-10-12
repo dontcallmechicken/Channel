@@ -29,7 +29,7 @@ Montagsdemo im Schocktober, 24.10.22
 Schocktober mit Dokumentationen über das Genre des Horrorfilms, Gesellschaftliche Betrachtung des Genre und über echte „Horrorfälle“.
 
 ## 2025
-Für geplante und angedachte Spiele siehe die [Übersicht zum Schocktober 2025](2025.md).
+Für weitere geplante und angedachte Spiele siehe die [Übersicht zum Schocktober 2025](2025.md).
 
 * [Don't Escape Trilogy (2019)](2025.md#dont-escape-trilogy-2019)  
   Point-and-Click, Adventure, Horror  
