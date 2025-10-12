@@ -34,9 +34,9 @@ Für geplante und angedachte Spiele siehe die [Übersicht zum Schocktober 2025](
 * [Don't Escape Trilogy (2019)](2025.md#dont-escape-trilogy-2019)  
   Point-and-Click, Adventure, Horror  
   alle drei Teile in einer Sitzng, 07.08.25
-* [Clock Tower: The First Fear (1997, PSX)](https://en.wikipedia.org/wiki/Clock_Tower_(1995_video_game))
-  Genre: Action-Adventure, Survival Horror
+* [Clock Tower: The First Fear (1997, PSX)](https://en.wikipedia.org/wiki/Clock_Tower_(1995_video_game))  
+  Genre: Action-Adventure, Survival Horror  
   in einer Sitzung, 10.10.25, Ende C und B
-* [Clock Tower (JP: Clock Tower 2) (1996, PSX)](https://en.wikipedia.org/wiki/Clock_Tower_(1996_video_game))
-  Genre: Action-Adventure, Survival Horror
+* [Clock Tower (JP: Clock Tower 2) (1996, PSX)](https://en.wikipedia.org/wiki/Clock_Tower_(1996_video_game))  
+  Genre: Action-Adventure, Survival Horror  
   ? Sitzungen, 11.10.25 - ?, mit Jennifer, Ende E, ?
