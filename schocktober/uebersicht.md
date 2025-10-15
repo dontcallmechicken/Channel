@@ -41,5 +41,5 @@ Für weitere geplante und angedachte Spiele siehe die [Übersicht zum Schocktobe
   Genre: Action-Adventure, Survival Horror  
   drei Sitzungen, 11.10.25 - 14.10.25, mit Jennifer, Ende E, C, D, B, A
 * [Game For Anna (06.07.21)](https://store.steampowered.com/app/1673600/Game_For_Anna/)  
-  Genre: Adventure, Horror, First-Person
+  Genre: Adventure, Horror, First-Person  
   zwei Sitzungen, 13.10.25 und 14.10.25 
