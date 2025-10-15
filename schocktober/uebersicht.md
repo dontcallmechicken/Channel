@@ -39,4 +39,7 @@ Für weitere geplante und angedachte Spiele siehe die [Übersicht zum Schocktobe
   in einer Sitzung, 10.10.25, Ende C und B
 * [Clock Tower (JP: Clock Tower 2) (1996, PSX)](https://en.wikipedia.org/wiki/Clock_Tower_(1996_video_game))  
   Genre: Action-Adventure, Survival Horror  
-  ? Sitzungen, 11.10.25 - ?, mit Jennifer, Ende E, ?
+  drei Sitzungen, 11.10.25 - 14.10.25, mit Jennifer, Ende E, C, D, B, A
+* [Game For Anna (06.07.21)](https://store.steampowered.com/app/1673600/Game_For_Anna/)
+  Genre: Adventure, Horror, First-Person
+  zwei Sitzungen, 13.10.25 und 14.10.25 
