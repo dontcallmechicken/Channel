@@ -34,12 +34,12 @@ Für weitere geplante und angedachte Spiele siehe die [Übersicht zum Schocktobe
 * [Don't Escape Trilogy (2019)](2025.md#dont-escape-trilogy-2019)  
   Point-and-Click, Adventure, Horror  
   alle drei Teile in einer Sitzng, 07.08.25
-* [Clock Tower: The First Fear (1997, PSX)](https://en.wikipedia.org/wiki/Clock_Tower_(1995_video_game))  
+* [Clock Tower: The First Fear (1997, PSX)](2025.md#clock-tower-the-first-fear-1997-psx)  
   Genre: Action-Adventure, Survival Horror  
   in einer Sitzung, 10.10.25, Ende C und B
-* [Clock Tower (JP: Clock Tower 2) (1996, PSX)](https://en.wikipedia.org/wiki/Clock_Tower_(1996_video_game))  
+* [Clock Tower (JP: Clock Tower 2) (1996, PSX)](2025.md#clock-tower-jp-clock-tower-2-1996-psx)  
   Genre: Action-Adventure, Survival Horror  
   drei Sitzungen, 11.10.25 - 14.10.25, mit Jennifer, Ende E, C, D, B, A
-* [Game For Anna (06.07.21)](https://store.steampowered.com/app/1673600/Game_For_Anna/)  
+* [Game For Anna (06.07.21)](2025.md#darkness-under-my-bed-spielereihe)  
   Genre: Adventure, Horror, First-Person  
   zwei Sitzungen, 13.10.25 und 14.10.25 
