@@ -43,3 +43,6 @@ Für weitere geplante und angedachte Spiele siehe die [Übersicht zum Schocktobe
 * [Game For Anna (06.07.21)](2025.md#darkness-under-my-bed-spielereihe)  
   Genre: Adventure, Horror, First-Person  
   zwei Sitzungen, 13.10.25 und 14.10.25 
+* [Harvester (1996, PC)](2025.md#harvester-1996-pc)
+  Genre: Point-and-Click-Adventure, Full Motion Video (FMV)
+  drei Sitzungen, 18.10.25 bis 19.10.25, beide Enden
