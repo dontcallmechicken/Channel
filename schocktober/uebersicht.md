@@ -18,6 +18,10 @@ Für weitere geplante und angedachte Spiele siehe die [Übersicht zum Schocktobe
 * [Harvester (1996, PC)](2025.md#harvester-1996-pc)  
   Genre: Point-and-Click-Adventure, Full Motion Video (FMV)  
   drei Sitzungen, 18.10.25 bis 19.10.25, beide Enden
+* [I Have No Mouth, and I Must Scream (1995, DOS](https://github.com/dontcallmechicken/Channel/blob/main/schocktober/2025.md#i-have-no-mouth-and-i-must-scream-1995-dos)
+  Genre: Point-and-Click-Adventure, Horror, Sci-Fi
+  zwei Sitzungen, 25.10.25 und 26.10.25, schlechtes Ende für jeden Charakter;
+  Versuch das beste am schnellsten erreichbare Ende mit Nimdok zu erreichen „gescheitert“
 
 ## 2024
 Schocktober mit Dokumentationen über das Genre des Horrorfilms, Gesellschaftliche Betrachtung des Genre und über echte „Horrorfälle“.
