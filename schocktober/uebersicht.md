@@ -49,5 +49,5 @@ Japanische Originalversion mit inofiziellem englischen Sprachpatch
 „Terror im Livestream“  
 Montagsdemo im Schocktober, 24.10.22
 * Pflanzen gegen Zombies (2009, PC)  
-Rübengeistern, leichter verdauliche Spielspaß im Schocktober  
+Rübengeistern, leicht verdaulicher Spielspaß im Schocktober  
 eine Runde aus Spaß, 19.10.22, nicht beendet
