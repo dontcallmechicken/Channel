@@ -38,7 +38,7 @@ eine Sitzung, 17.10.22
 Japanische Originalversion mit inofiziellem englischen Sprachpatch
   * Info: Name der PSX Version von 1997: Clock Tower: The First Fear
 * Clock Tower (Japan: Clock Tower 2 (1996, PSX)  
-  zwei Sitzungen, 20.10.22 und 21.10.22
+  zwei Sitzungen, 20.10.22 und 21.10.22, mit Helen Maxwell
 * Phantasmagoria 2: Labor des Grauens (1996, PC)  
   drei Sitzungen, 30.10.22 - 01.11.22
 * One-way Ticket – Episode 1 (PC, itch.io)  
