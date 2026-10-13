@@ -1,5 +1,7 @@
 # Schocktober
 
+## 2026
+
 ## 2025
 * [Don't Escape Trilogy (2019)](2025.md#dont-escape-trilogy-2019)  
   Point-and-Click, Adventure, Horror  
