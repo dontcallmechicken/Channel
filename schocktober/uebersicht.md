@@ -1,7 +1,7 @@
 # Schocktober
 ## 2026
-* Just Ignore Them (2017) – Original
-Point-and-click, Adventure, Indie
+* Just Ignore Them (2017) – Original  
+Point-and-click, Adventure, Indie  
 zwei Sitzungen, 14.10.26 und 17.10.26, schlechtes und gutes Ende
 
 ## 2025
