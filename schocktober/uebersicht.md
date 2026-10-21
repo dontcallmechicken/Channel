@@ -1,7 +1,7 @@
 # Schocktober
 ## 2026
 * The Beast Within: A Gabriel Knight Mystery (1995)  
- Point-and-Click-Adventure, Full Motion Video (FMV)  
+ Point-and-Click, Adventure, Full Motion Video (FMV)  
 aktuell am Spielen
 * Just Ignore Them (2017) – Original  
 Point-and-click, Adventure, Indie  
@@ -24,7 +24,7 @@ zwei Sitzungen, 14.10.26 und 17.10.26, schlechtes und gutes Ende
   Genre: Point-and-Click-Adventure, Full Motion Video (FMV)  
   drei Sitzungen, 18.10.25 bis 19.10.25, beide Enden
 * [I Have No Mouth, and I Must Scream (1995, DOS)](https://github.com/dontcallmechicken/Channel/blob/main/schocktober/2025.md#i-have-no-mouth-and-i-must-scream-1995-dos)  
-  Genre: Point-and-Click-Adventure, Horror, Sci-Fi
+  Genre: Point-and-Click, Adventure, Horror, Sci-Fi
   zwei Sitzungen, 25.10.25 und 26.10.25, schlechtes Ende für jeden Charakter;
   Versuch das beste am schnellsten erreichbare Ende mit Nimdok zu erreichen „gescheitert“
 
